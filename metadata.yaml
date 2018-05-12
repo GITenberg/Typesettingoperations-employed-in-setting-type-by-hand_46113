@@ -1,0 +1,28 @@
+_repo: Typesettingoperations-employed-in-setting-type-by-hand_46113
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46113-h/images/coverimage.jpg
+creator:
+  author:
+    agent_name: Stewart, A. A. (Alexander A.)
+    alias: Stewart, Alexander A.
+    gutenberg_agent_id: '35419'
+    url: http://www.gutenberg.org/2009/agents/35419
+description: ''
+gutenberg_issued: '2014-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printing'
+- !lcsh 'Typesetting'
+- !lcc 'Z'
+title: "Typesetting\r\nA primer of information about working at the case, justifying,\
+  \ spacing, correcting, making-up, and other operations employed in setting type\
+  \ by hand"
+url: http://www.gutenberg.org/ebooks/46113
